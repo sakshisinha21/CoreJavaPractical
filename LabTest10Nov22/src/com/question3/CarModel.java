@@ -37,7 +37,7 @@ public class CarModel {
 
 	public static void main(String[] args) {
 		
-		//Declaring Variables
+		        //Declaring Variables
 				int i,n;
 				System.out.println("Enter The No. Of Cars:");
 				n = sc.nextInt();
